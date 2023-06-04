@@ -6,7 +6,7 @@ This project builds a Search Engine that takes as input a query (such as *What i
 Link to search engine: [wikipedia-search-engine](https://huggingface.co/spaces/abokbot/wikipedia-search-engine#wikipedia-search-engine-app)
 
 ## Demo
-![](demo_search_engine.gif)
+![](demo.gif)
 
 
 ## Wikipedia articles dataset
