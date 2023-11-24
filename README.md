@@ -28,7 +28,7 @@ dataset = dataset.map(get_first_paragraph)
 ### Why this dataset?
 The size of the original English Wikipedia dataset is over 20GB. It takes 20min to load it on a Google Colab notebook and running computations on that dataset can be costly.
 
-We made the assumption that the most important information of a Wikipeida article is in its first paragraph and decided to work with that. The dataset of first paragraphs of Wikipedia pages had a size of 1.39GB and it takes 5 min to load it on a Google colab notebook.
+We made the assumption that the most important information of a Wikipedia article is in its first paragraph and decided to work with that. The dataset of first paragraphs of Wikipedia pages had a size of 1.39GB and it takes 5 min to load it on a Google colab notebook.
 
 ### Dataset Structure
 An example looks as follows:
